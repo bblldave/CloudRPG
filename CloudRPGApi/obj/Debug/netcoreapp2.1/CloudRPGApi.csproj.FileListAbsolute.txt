@@ -1,0 +1,14 @@
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\bin\Debug\netcoreapp2.1\CloudRPGApi.deps.json
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\bin\Debug\netcoreapp2.1\CloudRPGApi.runtimeconfig.json
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\bin\Debug\netcoreapp2.1\CloudRPGApi.runtimeconfig.dev.json
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\bin\Debug\netcoreapp2.1\CloudRPGApi.dll
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\bin\Debug\netcoreapp2.1\CloudRPGApi.pdb
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.csprojAssemblyReference.cache
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.csproj.CoreCompileInputs.cache
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.RazorAssemblyInfo.cache
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.RazorAssemblyInfo.cs
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.AssemblyInfoInputs.cache
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.AssemblyInfo.cs
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.RazorTargetAssemblyInfo.cache
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.dll
+C:\Users\bblld\Desktop\CloudRPG\CloudRPGApi\obj\Debug\netcoreapp2.1\CloudRPGApi.pdb
